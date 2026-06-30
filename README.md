@@ -1,3 +1,9 @@
+
+# Fraud-detection-risk-analysis-dashboard
+An end-to-end fraud analytics project using SQL Server and Power BI to analyze fraud patterns, customer risk, financial losses, and demographic trends through interactive dashboards.
+
+----
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -10,10 +16,6 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
-
-
-# Fraud-detection-risk-analysis-dashboard
-An end-to-end fraud analytics project using SQL Server and Power BI to analyze fraud patterns, customer risk, financial losses, and demographic trends through interactive dashboards.
 
 ---
 ## Project Overview

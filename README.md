@@ -132,9 +132,8 @@ The business questions answered during the analysis include:
 
 The repository contains the following SQL files:
 
-- **Fraud_Detection_Table.sql** – Database table creation and dataset structure.
-- **Transaction_Overview.sql** – SQL queries used for the Fraud Overview & Transaction Analysis dashboard.
-- **Customer_Analysis.sql** – SQL queries used for the Customer & Demographic Fraud Analysis dashboard.
+- **Transaction Overview-1.sql** – SQL queries used for the Fraud Overview & Transaction Analysis dashboard.
+- **Customer Risk Analysis-2.sql** – SQL queries used for the Customer & Demographic Fraud Analysis dashboard.
 
   ----
 
